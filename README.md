@@ -1,8 +1,5 @@
-# React + Vite
+# 歌词滚动播放器
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+用react实现了常见播放器中歌词滚动的效果，思路来源渡一教育前端大师课袁老师（腾讯课堂直接搜可以找到，免费的）
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
